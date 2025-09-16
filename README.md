@@ -7,7 +7,7 @@
 
 
 ## Demo
-Don’t sue me, **Mark Zuckerberg**, for using your images for this demo ❤️
+Don’t sue me, **Mark Zuckerberg**, for using your images for this demo ❤️ <br> <br>
 **Original images:**  
 
 
@@ -89,6 +89,7 @@ Then upload your images, and the app will generate the timelapse video automatic
 
 * The final video will be saved in the working directory (default format: `.mp4`).
 * Faces are aligned based on eye positions for smooth transitions.
+
 
 
 
