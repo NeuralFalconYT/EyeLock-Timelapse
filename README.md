@@ -3,7 +3,8 @@
 
 **EyeLock-Timelapse** aligns faces with a focus on eyes in multiple images and creates smooth timelapse videos. Upload your selfies, and the app automatically fixes eye positions for a perfectly aligned video ready to edit.  
 
----
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/EyeLock-Timelapse/blob/main/colab.ipynb) <br>
+
 
 ## Demo
 Don’t sue me, **Mark Zuckerberg**, for using your images for this demo ❤️
@@ -88,6 +89,7 @@ Then upload your images, and the app will generate the timelapse video automatic
 
 * The final video will be saved in the working directory (default format: `.mp4`).
 * Faces are aligned based on eye positions for smooth transitions.
+
 
 
 
