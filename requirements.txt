@@ -1,2 +1,4 @@
 mediapipe==0.10.21
 opencv-python-headless==4.10.0.84
+gradio>=5.44.1
+click
